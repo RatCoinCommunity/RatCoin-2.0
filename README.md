@@ -1,5 +1,5 @@
-RATCOIN INFO
---------------------------------------------------------------------------------------------------------------
+## RATCOIN INFO
+
 <b><u>SPECIFICATIONS:</u></b><br>
 Algorithm: Scrypt POS / POW<br>
 MAX Supply: 9,000,000,000 (9 Billion)<br>
@@ -16,9 +16,9 @@ Pow 0 coins per block till block 200k<br>
 rpcport=19764<br>
 Staking APY:<br>
 BLOCK %<br>
-0,000 - 50,000 20%<br>
-50,001 - 100,000 225%<br>
-100,001 - 150,000 200%<br>
+<s>0,000 - 50,000 20%</s><br>
+<s>50,001 - 100,000 225%</s><br>
+<s>100,001 - 150,000 200%</s><br>
 150,001 - 200,000 175%<br>
 200,001 - 250,000 150%<br>
 250,001 - 300,000 125%<br>
@@ -31,11 +31,9 @@ BLOCK %<br>
 700,001 - 750,000 10%<br>
 750,001 - Max Supply 5%<br>
 <br>
-Explorer – http://explorer.ratcoin.network/<br>
-                - http://112.213.39.98/<br>
-Website – https://ratcoin.network/<br>
-Wallets - https://ratcoin.network/ratcoin-rat-wallets/<br>
-Staking Pools - https://ratcoin.network/staking-pools/<br>
+Explorer – http://ratcoin.rektfreak.io/<br>
+Website – https://ratcoin.net/<br>
+Wallets - https://github.com/RatCoinCommunity/RatCoin-2.0/releases/tag/v2.0.1.0-g-freak<br>
 <br>
 Telegram Announcements - https://t.me/ratcoin<br>
 Telegram Chat - https://t.me/ratcoincommunity<br>
@@ -47,7 +45,7 @@ Instagram - https://www.instagram.com/ratcoin <br>
 YouTube - https://www.youtube.com/channel/UCqe62xEEgJ5nPMFxfChTvDw/<br>
 Discord - https://discord.com/invite/6M27VCJ<br>
 Reddit - https://www.reddit.com/user/RatcoinTK<br>
-Github - https://github.com/ArcaneCrypto/RatCoin-2.0<br>
+Github - https://github.com/RatCoinCommunity<br>
 <br>
 EXCHANGES<br>
 <br>
