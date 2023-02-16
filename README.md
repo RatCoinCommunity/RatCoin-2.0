@@ -53,10 +53,12 @@ BitcoinTalk - https://bitcointalk.org/index.php?topic=5066723.0<br>
 StockTwits - https://stocktwits.com/symbol/RAT.X<br>
 <br>
 EXCHANGES<br>
-
 Bololex.com<br>
 Exchange-Assets.com<br>
 Cratex.io<br>
+
+STAKING POOLS
+Coinstake.in<br>
 
 INFO SITES<br>
 CoinMarketCap - https://coinmarketcap.com/currencies/ratcoin-network/<br>
