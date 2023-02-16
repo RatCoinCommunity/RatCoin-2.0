@@ -30,7 +30,6 @@ BLOCK %<br>
 650,001 - 700,000 15%<br>
 700,001 - 750,000 10%<br>
 750,001 - Max Supply 5%<br>
-<br>
 
 Website – https://ratcoin.net/<br>
 Explorer – https://ratcoin.rektfreak.io/<br>
