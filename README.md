@@ -31,12 +31,12 @@ BLOCK %<br>
 700,001 - 750,000 10%<br>
 750,001 - Max Supply 5%<br>
 <br>
-Explorer – http://explorer.ratcoin.network/<br>
-                - http://112.213.39.98/<br>
-Website – https://ratcoin.network/<br>
-Wallets - https://ratcoin.network/ratcoin-rat-wallets/<br>
-Staking Pools - https://ratcoin.network/staking-pools/<br>
-<br>
+
+Explorer – https://ratcoin.rektfreak.io/<br>
+                
+Website – https://ratcoin.net/<br>
+Wallets - https://ratcoin.net/#wallet/<br>
+
 Telegram Announcements - https://t.me/ratcoin<br>
 Telegram Chat - https://t.me/ratcoincommunity<br>
 Telegram (Portuguese) - https://t.me/ratcoinptbr<br>
@@ -52,9 +52,9 @@ Github - https://github.com/ArcaneCrypto/RatCoin-2.0<br>
 EXCHANGES<br>
 <br>
 BOLOLEX.COM<br>
-RAT / DOGE - https://bololex.com/trading/sessions/market-view?symbol=RAT-DOGE<br>
-RAT / USDT - https://bololex.com/trading/?symbol=RAT-USDT<br>
-<br>
+EXCHANGE-ASSETS.COM<br>
+CRATEX.IO<br>
+
 INFO SITES<br>
 CoinGecko - https://www.coingecko.com/en/coins/ratcoin<br>
 Coinpaprika - https://coinpaprika.com/coin/rat-ratcoin/<br>
