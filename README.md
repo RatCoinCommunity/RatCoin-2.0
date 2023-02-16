@@ -33,7 +33,8 @@ BLOCK %<br>
 
 Website – https://ratcoin.net/<br>
 Explorer – https://ratcoin.rektfreak.io/<br>
-Wallets - https://ratcoin.net/#wallet/<br>
+Desktop Wallet QT - https://github.com/RatCoinCommunity/RatCoin-2.0/releases/download/v2.0.1.0-g-freak/RatCoin-qt.exe<br>
+Desktop Wallet Snapshot - https://github.com/RatCoinCommunity/RatCoin-2.0/releases/download/v2.0.1.0-g-freak/Snapshot.zip<br>
 
 Telegram (English) - https://t.me/ratcoincommunity<br>
 Telegram (Portuguese) - https://t.me/ratcoinptbr<br>
