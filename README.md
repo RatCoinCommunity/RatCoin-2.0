@@ -52,7 +52,7 @@ Medium - https://ratcoin.medium.com<br>
 Reddit - https://www.reddit.com/user/RatcoinTK<br>
 BitcoinTalk - https://bitcointalk.org/index.php?topic=5066723.0<br>
 StockTwits - https://stocktwits.com/symbol/RAT.X<br>
-<br>
+
 EXCHANGES<br>
 Bololex.com<br>
 Exchange-Assets.com<br>
@@ -68,5 +68,5 @@ CoinMarketLeague - https://coinmarketleague.com/coin/ratcoin<br>
 Coinpaprika - https://coinpaprika.com/coin/rat-ratcoin/<br>
 Blockspot.io - https://blockspot.io/coin/ratcoin/<br>
 Moonstats - https://www.moonstats.com/rat-ratcoin<br>
-Blockfolio Vote - https://blockfolio.canny.io/coin-requests/p/ratcoinrat<br>
 Coinlore - https://www.coinlore.com/zh/coin/ratcoin<br>
+CoinMooner - https://coinmooner.com/coin/ratcoin-rat
