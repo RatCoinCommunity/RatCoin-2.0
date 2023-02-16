@@ -48,6 +48,7 @@ Facebook - https://www.facebook.com/groups/142509831068661<br>
 Instagram - https://www.instagram.com/ratcoin <br>
 YouTube - https://www.youtube.com/channel/UCqe62xEEgJ5nPMFxfChTvDw/<br>
 Discord - https://discord.com/invite/r292sMnA9g<br>
+Medium - https://ratcoin.medium.com<br>
 Reddit - https://www.reddit.com/user/RatcoinTK<br>
 BitcoinTalk - https://bitcointalk.org/index.php?topic=5066723.0<br>
 StockTwits - https://stocktwits.com/symbol/RAT.X<br>
@@ -57,7 +58,7 @@ Bololex.com<br>
 Exchange-Assets.com<br>
 Cratex.io<br>
 
-STAKING POOLS
+STAKING POOLS<br>
 Coinstake.in<br>
 
 INFO SITES<br>
@@ -69,4 +70,3 @@ Blockspot.io - https://blockspot.io/coin/ratcoin/<br>
 Moonstats - https://www.moonstats.com/rat-ratcoin<br>
 Blockfolio Vote - https://blockfolio.canny.io/coin-requests/p/ratcoinrat<br>
 Coinlore - https://www.coinlore.com/zh/coin/ratcoin<br>
-Medium - https://ratcoin.medium.com<br>
