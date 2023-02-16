@@ -32,33 +32,39 @@ BLOCK %<br>
 750,001 - Max Supply 5%<br>
 <br>
 
-Explorer – https://ratcoin.rektfreak.io/<br>
-                
 Website – https://ratcoin.net/<br>
+Explorer – https://ratcoin.rektfreak.io/<br>
 Wallets - https://ratcoin.net/#wallet/<br>
 
-Telegram Announcements - https://t.me/ratcoin<br>
-Telegram Chat - https://t.me/ratcoincommunity<br>
+Telegram (English) - https://t.me/ratcoincommunity<br>
 Telegram (Portuguese) - https://t.me/ratcoinptbr<br>
-BitcoinTalk - https://bitcointalk.org/index.php?topic=5066723.0<br>
+Telegram (Spanish) - https://t.me/RatCoinSpanish<br>
+Telegram (Indonesian) - https://t.me/RATIndonesia<br>
+Telegram (Russian) - https://t.me/RatCoinRussia<br>
+
+Github - https://github.com/RatCoinCommunity<br>
 Twitter - https://twitter.com/RatcoinR<br>
-Facebook - https://www.facebook.com/ratcoinrat/<br>
+Facebook - https://www.facebook.com/groups/142509831068661<br>
 Instagram - https://www.instagram.com/ratcoin <br>
 YouTube - https://www.youtube.com/channel/UCqe62xEEgJ5nPMFxfChTvDw/<br>
-Discord - https://discord.com/invite/6M27VCJ<br>
+Discord - https://discord.com/invite/r292sMnA9g<br>
 Reddit - https://www.reddit.com/user/RatcoinTK<br>
-Github - https://github.com/ArcaneCrypto/RatCoin-2.0<br>
+BitcoinTalk - https://bitcointalk.org/index.php?topic=5066723.0<br>
+StockTwits - https://stocktwits.com/symbol/RAT.X<br>
 <br>
 EXCHANGES<br>
-<br>
-BOLOLEX.COM<br>
-EXCHANGE-ASSETS.COM<br>
-CRATEX.IO<br>
+
+Bololex.com<br>
+Exchange-Assets.com<br>
+Cratex.io<br>
 
 INFO SITES<br>
+CoinMarketCap - https://coinmarketcap.com/currencies/ratcoin-network/<br>
 CoinGecko - https://www.coingecko.com/en/coins/ratcoin<br>
+CoinMarketLeague - https://coinmarketleague.com/coin/ratcoin<br>
 Coinpaprika - https://coinpaprika.com/coin/rat-ratcoin/<br>
 Blockspot.io - https://blockspot.io/coin/ratcoin/<br>
 Moonstats - https://www.moonstats.com/rat-ratcoin<br>
 Blockfolio Vote - https://blockfolio.canny.io/coin-requests/p/ratcoinrat<br>
 Coinlore - https://www.coinlore.com/zh/coin/ratcoin<br>
+Medium - https://ratcoin.medium.com<br>
