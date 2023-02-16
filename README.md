@@ -55,9 +55,9 @@ BitcoinTalk - https://bitcointalk.org/index.php?topic=5066723.0<br>
 StockTwits - https://stocktwits.com/symbol/RAT.X<br>
 
 EXCHANGES<br>
-Bololex.com<br>
-Exchange-Assets.com<br>
-Cratex.io<br>
+https://bololex.com<br>
+https://exchange-assets.com/en/<br>
+https://cratex.io<br>
 
 STAKING POOLS<br>
 Coinstake.in<br>
