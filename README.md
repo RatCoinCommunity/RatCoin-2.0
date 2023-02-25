@@ -61,6 +61,28 @@ https://bololex.com<br>
 https://exchange-assets.com/en/<br>
 https://cratex.io<br>
 
+TRADING PAIRS<br>
+RAT / DOGE - https://bololex.com/trading/sessions/market-view?symbol=RAT-DOGE
+RAT / USDT - https://bololex.com/trading/?symbol=RAT-USDT
+RAT / TRX - https://bololex.com/trading/?symbol=RAT-TRX
+RAT / BOLO - https://bololex.com/trading/?symbol=RAT-BOLO
+RAT / WAVES - https://bololex.com/trading/?symbol=RAT-WAVES
+RAT / MIC3 - https://bololex.com/trading/?symbol=RAT-MIC3
+RAT / LTC - https://bololex.com/trading/?symbol=RAT-LTC
+RAT / XLM - https://bololex.com/trading/?symbol=RAT-XLM
+RAT / ETH - https://bololex.com/trading/?symbol=RAT-ETH
+RAT / BNB - https://bololex.com/trading/?symbol=RAT-BNB
+RAT / RDD - https://bololex.com/trading/?symbol=RAT-RDD
+RAT / BTC : https://bololex.com/trading/sessions/market-view?symbol=RAT-BTC
+RAT / DGB : https://bololex.com/trading/sessions/market-view?symbol=RAT-DGB<br>
+
+RAT / USDT : https://exchange-assets.com/en/?market=rat_usdt
+
+RAT / USDT : https://cratex.io/index.php?pair=RAT/USDT
+RAT / BTCZ : https://cratex.io/index.php?pair=RAT/BTCZ
+RAT / DOGE : https://cratex.io/index.php?pair=RAT/DOGE
+RAT / LTC : https://cratex.io/index.php?pair=RAT/LTC
+
 STAKING POOLS<br>
 Coinstake.in<br>
 
@@ -73,3 +95,17 @@ Blockspot.io - https://blockspot.io/coin/ratcoin/<br>
 Moonstats - https://www.moonstats.com/rat-ratcoin<br>
 Coinlore - https://www.coinlore.com/zh/coin/ratcoin<br>
 CoinMooner - https://coinmooner.com/coin/ratcoin-rat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
