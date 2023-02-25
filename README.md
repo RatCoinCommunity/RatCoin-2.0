@@ -62,26 +62,26 @@ https://exchange-assets.com/en/<br>
 https://cratex.io<br>
 
 TRADING PAIRS<br>
-RAT / DOGE - https://bololex.com/trading/sessions/market-view?symbol=RAT-DOGE
-RAT / USDT - https://bololex.com/trading/?symbol=RAT-USDT
-RAT / TRX - https://bololex.com/trading/?symbol=RAT-TRX
-RAT / BOLO - https://bololex.com/trading/?symbol=RAT-BOLO
-RAT / WAVES - https://bololex.com/trading/?symbol=RAT-WAVES
-RAT / MIC3 - https://bololex.com/trading/?symbol=RAT-MIC3
-RAT / LTC - https://bololex.com/trading/?symbol=RAT-LTC
-RAT / XLM - https://bololex.com/trading/?symbol=RAT-XLM
-RAT / ETH - https://bololex.com/trading/?symbol=RAT-ETH
-RAT / BNB - https://bololex.com/trading/?symbol=RAT-BNB
-RAT / RDD - https://bololex.com/trading/?symbol=RAT-RDD
-RAT / BTC : https://bololex.com/trading/sessions/market-view?symbol=RAT-BTC
+RAT / DOGE - https://bololex.com/trading/sessions/market-view?symbol=RAT-DOGE<br>
+RAT / USDT - https://bololex.com/trading/?symbol=RAT-USDT<br>
+RAT / TRX - https://bololex.com/trading/?symbol=RAT-TRX<br>
+RAT / BOLO - https://bololex.com/trading/?symbol=RAT-BOLO<br>
+RAT / WAVES - https://bololex.com/trading/?symbol=RAT-WAVES<br>
+RAT / MIC3 - https://bololex.com/trading/?symbol=RAT-MIC3<br>
+RAT / LTC - https://bololex.com/trading/?symbol=RAT-LTC<br>
+RAT / XLM - https://bololex.com/trading/?symbol=RAT-XLM<br>
+RAT / ETH - https://bololex.com/trading/?symbol=RAT-ETH<br>
+RAT / BNB - https://bololex.com/trading/?symbol=RAT-BNB<br>
+RAT / RDD - https://bololex.com/trading/?symbol=RAT-RDD<br>
+RAT / BTC : https://bololex.com/trading/sessions/market-view?symbol=RAT-BTC<br>
 RAT / DGB : https://bololex.com/trading/sessions/market-view?symbol=RAT-DGB<br>
 
-RAT / USDT : https://exchange-assets.com/en/?market=rat_usdt
+RAT / USDT : https://exchange-assets.com/en/?market=rat_usdt<br>
 
-RAT / USDT : https://cratex.io/index.php?pair=RAT/USDT
-RAT / BTCZ : https://cratex.io/index.php?pair=RAT/BTCZ
-RAT / DOGE : https://cratex.io/index.php?pair=RAT/DOGE
-RAT / LTC : https://cratex.io/index.php?pair=RAT/LTC
+RAT / USDT : https://cratex.io/index.php?pair=RAT/USDT<br>
+RAT / BTCZ : https://cratex.io/index.php?pair=RAT/BTCZ<br>
+RAT / DOGE : https://cratex.io/index.php?pair=RAT/DOGE<br>
+RAT / LTC : https://cratex.io/index.php?pair=RAT/LTC<br>
 
 STAKING POOLS<br>
 Coinstake.in<br>
