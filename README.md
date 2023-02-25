@@ -37,6 +37,8 @@ Explorer – https://ratcoin.rektfreak.io/<br>
 Desktop Wallet QT - https://github.com/RatCoinCommunity/RatCoin-2.0/releases/download/v2.0.1.0-g-freak/RatCoin-qt.exe<br>
 Desktop Wallet Snapshot - https://github.com/RatCoinCommunity/RatCoin-2.0/releases/download/v2.0.1.0-g-freak/Snapshot.zip<br>
 
+Whitepaper - https://drive.google.com/file/d/1txXmDTf3FjA6FYe3WXjxdMMyb07dAymh/view
+
 Telegram (English) - https://t.me/ratcoincommunity<br>
 Telegram (Portuguese) - https://t.me/ratcoinptbr<br>
 Telegram (Spanish) - https://t.me/RatCoinSpanish<br>
