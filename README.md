@@ -1,6 +1,4 @@
-RATCOIN 2.0 HAS BEEN DECOMMISSIONED.  
-
-RATCOIN INFO
+RATCOIN 2.0 HAS BEEN DECOMMISSIONED
 --------------------------------------------------------------------------------------------------------------
 <b><u>SPECIFICATIONS:</u></b><br>
 Algorithm: Scrypt POS / POW<br>
